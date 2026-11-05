@@ -17,7 +17,7 @@
     "@react-three/postprocessing": "^3.0.4",
     "cobe": "^2.0.1",
     "gsap": "^3.14.2",
-    "next": "16.1.7",
+    "next": "16.4.1",
     "postprocessing": "^6.39.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
